@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+     <head>
+          <title> indexFrench </title> 
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="stylesheet" media="screen" type="text/css" title="MEP" href="style.css" />
+     </head>
+
+     <body>
+<div id="menu">
+</br>
+
+<div align=right>
+<a href="index.html" >English version  </a> &nbsp;
+</div>
+
+<img src="logo1.jpg" width="130" height="100" align="left" /> 
+<img src="Fichiers/garland_logo.png" width="100" height="100" align="left" /> 
+
+<hr />  
+
+
+<div align=center>
+<strong> Accueil </strong>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="CPGE.html"> CPGE </a> &nbsp;
+<a href="agregation.html"> Agrégation </a> &nbsp;
+<a href="recherche.html"> Recherche </a> &nbsp;
+<a href="apropos.html"> A propos </a> &nbsp;
+</div> 
+
+</div>
+<hr />  
+</br></br></br>
+
+
+
+ 
+
+
+
+<table style="text-align: left; width: 644px; height: 60px;" border="0" cellpadding="2" cellspacing="2">
+        <tbody>
+          <tr>
+            <td style="vertical-align: top;">
+ 
+ <img src="moi.png" width="285" height="400" align="left" />
+
+ 
+<h2> Geoffrey Deperle </h2>
+<div align=center> geoffrey.deperle@gmail.com </div>
+
+</br>
+</br>
+ 
+ 
+ <div align=center>
+Laboratoire J.A. Dieudonn&eacute <br>
+UMR CNRS 7351 <br>
+Universit&eacute C&ocircte-d'Azur <br>
+Parc Valrose <br>
+06108 NICE Cedex 02 <br>
+FRANCE <br>
+</br>
+</div>
+            </td>
+
+
+          </tr>
+        </tbody>
+		
+		
+		
+		
+<img  src="Fichiers/kepler.jpg" width="360" height="400" align="right" > 
+
+		
+		
+      </table>
+
+
+
+
+
+
+
+
+<p id="welcome"> Bienvenue sur ma page web. </p>
+<p>
+Je suis actuellement étudiant en math&eacutematiques </br> 
+au D&eacutepartement de Math&eacutematiques et Interactions J.-A. Dieudonn&eacute, </br>
+Universit&eacute C&ocircte-d'Azur, Nice, France.</br>
+</br>
+
+
+
+
+</br>
+
+Mes activit&eacutes de recherche portent sur les .
+
+</br>
+
+
+
+</p>
+
+
+
+
+
+
+
+
+
+     </body>
+</html>
+
